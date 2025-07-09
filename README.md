@@ -9,7 +9,7 @@ YOLO v5 model off a trained data set is able to identify apperances of 20 object
 ## Running Tests
 
 
-To run tests of Inspector YOLO please clone the repo, then activate your terminal and within the 4_webapp run the following command:
+To run tests of Inspector YOLO please clone the repo while installing all libraries used, then activate your terminal and within the 4_webapp run the following command:
 
 ```bash
   Streamlit run Home.py
